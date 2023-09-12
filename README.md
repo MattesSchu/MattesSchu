@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MattesSchu
 - 👀 I’m interested in ... 3D-Animation, UX-Experience,
-- 🌱 I’m currently learning ... Python, Qt, C++, Django, React
+- 🌱 I’m currently learning ... Python, Qt, C++, Django, Vue
 - 💞️ I’m looking to collaborate on ... Cool Projects
 - 📫 How to reach me ... mattes.schumann@gmx.de
 
